@@ -1,4 +1,19 @@
-p{
-    color:purple;
-    font-size:64px;
+body{
+    font-size: 20px;
 }
+p{
+    color: red;
+   
+}
+main{
+    font-family :monospace;
+}
+.iqram{
+    color: blue;
+}
+.Iqram{
+    background-color: yellow;
+    font-size: 30px;
+}
+
+    
